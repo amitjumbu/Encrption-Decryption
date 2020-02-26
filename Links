@@ -18,3 +18,9 @@ Always Encrypted Error: Performing encryption operations Status: 'Failed'
 https://www.mssqltips.com/sqlservertip/4814/exporting-and-importing-sql-server-always-encrypted-certificates-for-client-access/
 
 https://www.mssqltips.com/sqlservertip/4011/sql-server-2016-always-encrypted/
+
+
+https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/develop-using-always-encrypted-with-net-framework-data-provider?view=sql-server-ver15
+https://docs.microsoft.com/en-us/visualstudio/ide/how-to-target-a-version-of-the-dotnet-framework?view=vs-2015&redirectedfrom=MSDN
+https://sqljgood.wordpress.com/2017/02/10/viewing-always-encrypted-data-in-ssms/
+https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-ver15#getting-started-with-always-encrypted
